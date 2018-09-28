@@ -308,6 +308,5 @@ int main()
 			printf("Game Over! Result: %s\n", Result2(table).c_str());
 		}
 	}
-	return 0;
 }
 
